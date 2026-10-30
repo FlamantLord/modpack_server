@@ -1,0 +1,21 @@
+filename = 'gtbcs_spell_lib-2.2.0-1.21.1.jar'
+name = "GTBC's SpellLib/API"
+side = 'both'
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = '2.2.0-1.21.1'
+
+[download]
+hash = '7b5338e0d18e330109867705773222730f5e8b272ad6c59eb2478051b03735db31599ab18ee30e71703fbbd21bb4c2afbce37bf55ae729d1fc756ab8398ff1a2'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/wXoQ9BqX/versions/309MoFNN/gtbcs_spell_lib-2.2.0-1.21.1.jar'
+
+[update.modrinth]
+mod-id = 'wXoQ9BqX'
+version = '309MoFNN'
+
+[[x-prismlauncher-dependencies]]
+addonId = 's4OWxYQQ'
+type = 'REQUIRED'

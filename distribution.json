@@ -1,0 +1,1013 @@
+{
+  "version": "2026-10-30T13:46:35.706Z",
+  "servers": [
+    {
+      "id": "meu-servidor-1.21.1",
+      "name": "Guarana",
+      "description": "Descrição que aparece na tela inicial.",
+      "icon": "",
+      "address": "copperforge145.mcsh.gg",
+      "minecraftVersion": "1.21.1",
+      "neoforgeVersion": "21.1.265",
+      "autoconnect": true,
+      "version": "2026-10-30",
+      "mainServer": true,
+      "modules": [
+        {
+          "id": "local:BadOptimizations-2.4.1-1.21.1:1",
+          "name": "BadOptimizations-2.4.1-1.21.1",
+          "type": "NeoForgeMod",
+          "required": {
+            "value": true
+          },
+          "artifact": {
+            "size": 283566,
+            "MD5": "59ee243a5ccd09fff1dd2879b3cad72a",
+            "path": "BadOptimizations-2.4.1-1.21.1.jar",
+            "url": "https://gitlab.com/ann332724/modpack-servidor/-/raw/main/mods/BadOptimizations-2.4.1-1.21.1.jar"
+          }
+        },
+        {
+          "id": "local:Chunky-NeoForge-1.4.23:1",
+          "name": "Chunky-NeoForge-1.4.23",
+          "type": "NeoForgeMod",
+          "required": {
+            "value": true
+          },
+          "artifact": {
+            "size": 340572,
+            "MD5": "c461f3132c48d7bc71a9f2b307273a88",
+            "path": "Chunky-NeoForge-1.4.23.jar",
+            "url": "https://gitlab.com/ann332724/modpack-servidor/-/raw/main/mods/Chunky-NeoForge-1.4.23.jar"
+          }
+        },
+        {
+          "id": "local:ConfigManager-neoforge-1.21.x-1.0.1:1",
+          "name": "ConfigManager-neoforge-1.21.x-1.0.1",
+          "type": "NeoForgeMod",
+          "required": {
+            "value": true
+          },
+          "artifact": {
+            "size": 141558,
+            "MD5": "e34720fca86cb8dfea790264f314559d",
+            "path": "ConfigManager-neoforge-1.21.x-1.0.1.jar",
+            "url": "https://gitlab.com/ann332724/modpack-servidor/-/raw/main/mods/ConfigManager-neoforge-1.21.x-1.0.1.jar"
+          }
+        },
+        {
+          "id": "local:CrashAssistant-neoforge-1.20.6-1.21.4-1.11.12:1",
+          "name": "CrashAssistant-neoforge-1.20.6-1.21.4-1.11.12",
+          "type": "NeoForgeMod",
+          "required": {
+            "value": true
+          },
+          "artifact": {
+            "size": 3481341,
+            "MD5": "9f9ad561ad8ad08d5bb492675a0456b9",
+            "path": "CrashAssistant-neoforge-1.20.6-1.21.4-1.11.12.jar",
+            "url": "https://gitlab.com/ann332724/modpack-servidor/-/raw/main/mods/CrashAssistant-neoforge-1.20.6-1.21.4-1.11.12.jar"
+          }
+        },
+        {
+          "id": "local:CustomPlayerModels-1.21-0.6.27a:1",
+          "name": "CustomPlayerModels-1.21-0.6.27a",
+          "type": "NeoForgeMod",
+          "required": {
+            "value": true
+          },
+          "artifact": {
+            "size": 2793136,
+            "MD5": "d74eddfd5685aec041d6c5b097b689f3",
+            "path": "CustomPlayerModels-1.21-0.6.27a.jar",
+            "url": "https://gitlab.com/ann332724/modpack-servidor/-/raw/main/mods/CustomPlayerModels-1.21-0.6.27a.jar"
+          }
+        },
+        {
+          "id": "local:FastSuite-1.21.1-6.0.7:1",
+          "name": "FastSuite-1.21.1-6.0.7",
+          "type": "NeoForgeMod",
+          "required": {
+            "value": true
+          },
+          "artifact": {
+            "size": 28192,
+            "MD5": "966004408b33e6df06e6c71834217ffb",
+            "path": "FastSuite-1.21.1-6.0.7.jar",
+            "url": "https://gitlab.com/ann332724/modpack-servidor/-/raw/main/mods/FastSuite-1.21.1-6.0.7.jar"
+          }
+        },
+        {
+          "id": "local:ImmediatelyFast-NeoForge-1.6.15_1.21.1:1",
+          "name": "ImmediatelyFast-NeoForge-1.6.15+1.21.1",
+          "type": "NeoForgeMod",
+          "required": {
+            "value": true
+          },
+          "artifact": {
+            "size": 368896,
+            "MD5": "246e7a78710e73e070118a671b1d2d87",
+            "path": "ImmediatelyFast-NeoForge-1.6.15+1.21.1.jar",
+            "url": "https://gitlab.com/ann332724/modpack-servidor/-/raw/main/mods/ImmediatelyFast-NeoForge-1.6.15%2B1.21.1.jar"
+          }
+        },
+        {
+          "id": "local:Item-Obliterator-NeoForge-MC1.21.1-2.3.0:1",
+          "name": "Item-Obliterator-NeoForge-MC1.21.1-2.3.0",
+          "type": "NeoForgeMod",
+          "required": {
+            "value": true
+          },
+          "artifact": {
+            "size": 24037,
+            "MD5": "f47cadc2258d5c7a7e91ddf521e13713",
+            "path": "Item-Obliterator-NeoForge-MC1.21.1-2.3.0.jar",
+            "url": "https://gitlab.com/ann332724/modpack-servidor/-/raw/main/mods/Item-Obliterator-NeoForge-MC1.21.1-2.3.0.jar"
+          }
+        },
+        {
+          "id": "local:Necronomicon-NeoForge-1.6.0_1.21:1",
+          "name": "Necronomicon-NeoForge-1.6.0+1.21",
+          "type": "NeoForgeMod",
+          "required": {
+            "value": true
+          },
+          "artifact": {
+            "size": 29865,
+            "MD5": "6250002ee6b5583f7db70564ecdd9fbe",
+            "path": "Necronomicon-NeoForge-1.6.0+1.21.jar",
+            "url": "https://gitlab.com/ann332724/modpack-servidor/-/raw/main/mods/Necronomicon-NeoForge-1.6.0%2B1.21.jar"
+          }
+        },
+        {
+          "id": "local:OctoLib-NEOFORGE-0.6.2_1.21:1",
+          "name": "OctoLib-NEOFORGE-0.6.2+1.21",
+          "type": "NeoForgeMod",
+          "required": {
+            "value": true
+          },
+          "artifact": {
+            "size": 544378,
+            "MD5": "f730e04600b6cd66ddac685362a9c9f3",
+            "path": "OctoLib-NEOFORGE-0.6.2+1.21.jar",
+            "url": "https://gitlab.com/ann332724/modpack-servidor/-/raw/main/mods/OctoLib-NEOFORGE-0.6.2%2B1.21.jar"
+          }
+        },
+        {
+          "id": "local:Placebo-1.21.1-9.9.4:1",
+          "name": "Placebo-1.21.1-9.9.4",
+          "type": "NeoForgeMod",
+          "required": {
+            "value": true
+          },
+          "artifact": {
+            "size": 326063,
+            "MD5": "aa28b32050534747dab7fa167e443c1a",
+            "path": "Placebo-1.21.1-9.9.4.jar",
+            "url": "https://gitlab.com/ann332724/modpack-servidor/-/raw/main/mods/Placebo-1.21.1-9.9.4.jar"
+          }
+        },
+        {
+          "id": "local:ScalableLux-neoforge-0.3.0-alpha.0.8-all:1",
+          "name": "ScalableLux-neoforge-0.3.0-alpha.0.8-all",
+          "type": "NeoForgeMod",
+          "required": {
+            "value": true
+          },
+          "artifact": {
+            "size": 197423,
+            "MD5": "9bd3b2a016a271f77ba92110b9de77ff",
+            "path": "ScalableLux-neoforge-0.3.0-alpha.0.8-all.jar",
+            "url": "https://gitlab.com/ann332724/modpack-servidor/-/raw/main/mods/ScalableLux-neoforge-0.3.0-alpha.0.8-all.jar"
+          }
+        },
+        {
+          "id": "local:Vampirism-1.21-1.10.13:1",
+          "name": "Vampirism-1.21-1.10.13",
+          "type": "NeoForgeMod",
+          "required": {
+            "value": true
+          },
+          "artifact": {
+            "size": 12478474,
+            "MD5": "eff66ef863e2c2e85910110f2eec9454",
+            "path": "Vampirism-1.21-1.10.13.jar",
+            "url": "https://gitlab.com/ann332724/modpack-servidor/-/raw/main/mods/Vampirism-1.21-1.10.13.jar"
+          }
+        },
+        {
+          "id": "local:Werewolves-1.21-2.0.3.3:1",
+          "name": "Werewolves-1.21-2.0.3.3",
+          "type": "NeoForgeMod",
+          "required": {
+            "value": true
+          },
+          "artifact": {
+            "size": 2297879,
+            "MD5": "b0d3c2bfd28ab5cfc1eba6766f21362c",
+            "path": "Werewolves-1.21-2.0.3.3.jar",
+            "url": "https://gitlab.com/ann332724/modpack-servidor/-/raw/main/mods/Werewolves-1.21-2.0.3.3.jar"
+          }
+        },
+        {
+          "id": "local:alltheleaks-1.1.14-1.21.1-neoforge:1",
+          "name": "alltheleaks-1.1.14-1.21.1-neoforge",
+          "type": "NeoForgeMod",
+          "required": {
+            "value": true
+          },
+          "artifact": {
+            "size": 565897,
+            "MD5": "2be801e026ec4bfa1a14b47ab645c1e1",
+            "path": "alltheleaks-1.1.14-1.21.1-neoforge.jar",
+            "url": "https://gitlab.com/ann332724/modpack-servidor/-/raw/main/mods/alltheleaks-1.1.14-1.21.1-neoforge.jar"
+          }
+        },
+        {
+          "id": "local:alternate_current-mc1.21-1.9.0:1",
+          "name": "alternate_current-mc1.21-1.9.0",
+          "type": "NeoForgeMod",
+          "required": {
+            "value": true
+          },
+          "artifact": {
+            "size": 50425,
+            "MD5": "27530bb4fcd327476406d6e3caf94523",
+            "path": "alternate_current-mc1.21-1.9.0.jar",
+            "url": "https://gitlab.com/ann332724/modpack-servidor/-/raw/main/mods/alternate_current-mc1.21-1.9.0.jar"
+          }
+        },
+        {
+          "id": "local:appleskin-neoforge-mc1.21-3.0.9:1",
+          "name": "appleskin-neoforge-mc1.21-3.0.9",
+          "type": "NeoForgeMod",
+          "required": {
+            "value": true
+          },
+          "artifact": {
+            "size": 75804,
+            "MD5": "db5fe7619d502cf5b9bc972a955cd3bc",
+            "path": "appleskin-neoforge-mc1.21-3.0.9.jar",
+            "url": "https://gitlab.com/ann332724/modpack-servidor/-/raw/main/mods/appleskin-neoforge-mc1.21-3.0.9.jar"
+          }
+        },
+        {
+          "id": "local:architectury-13.0.11-neoforge:1",
+          "name": "architectury-13.0.11-neoforge",
+          "type": "NeoForgeMod",
+          "required": {
+            "value": true
+          },
+          "artifact": {
+            "size": 584734,
+            "MD5": "aefbea361809755c331126bcff6e6d3e",
+            "path": "architectury-13.0.11-neoforge.jar",
+            "url": "https://gitlab.com/ann332724/modpack-servidor/-/raw/main/mods/architectury-13.0.11-neoforge.jar"
+          }
+        },
+        {
+          "id": "local:artifacts-neoforge-13.2.5:1",
+          "name": "artifacts-neoforge-13.2.5",
+          "type": "NeoForgeMod",
+          "required": {
+            "value": true
+          },
+          "artifact": {
+            "size": 1086922,
+            "MD5": "16cf5de839360972a30396bd106422ac",
+            "path": "artifacts-neoforge-13.2.5.jar",
+            "url": "https://gitlab.com/ann332724/modpack-servidor/-/raw/main/mods/artifacts-neoforge-13.2.5.jar"
+          }
+        },
+        {
+          "id": "local:better-advanced-tooltips-2101.1.0-build.5:1",
+          "name": "better-advanced-tooltips-2101.1.0-build.5",
+          "type": "NeoForgeMod",
+          "required": {
+            "value": true
+          },
+          "artifact": {
+            "size": 37653,
+            "MD5": "edf97f2f11f57fffb4ed6d71c7b4508a",
+            "path": "better-advanced-tooltips-2101.1.0-build.5.jar",
+            "url": "https://gitlab.com/ann332724/modpack-servidor/-/raw/main/mods/better-advanced-tooltips-2101.1.0-build.5.jar"
+          }
+        },
+        {
+          "id": "local:c2me-neoforge-mc1.21.1-0.4.0-alpha.0.124:1",
+          "name": "c2me-neoforge-mc1.21.1-0.4.0-alpha.0.124",
+          "type": "NeoForgeMod",
+          "required": {
+            "value": true
+          },
+          "artifact": {
+            "size": 3717706,
+            "MD5": "24e75b153860182fb2f152c538f6da80",
+            "path": "c2me-neoforge-mc1.21.1-0.4.0-alpha.0.124.jar",
+            "url": "https://gitlab.com/ann332724/modpack-servidor/-/raw/main/mods/c2me-neoforge-mc1.21.1-0.4.0-alpha.0.124.jar"
+          }
+        },
+        {
+          "id": "local:cloth-config-15.0.140-neoforge:1",
+          "name": "cloth-config-15.0.140-neoforge",
+          "type": "NeoForgeMod",
+          "required": {
+            "value": true
+          },
+          "artifact": {
+            "size": 1163890,
+            "MD5": "4c3757160403fcccb8ad468c2ea22862",
+            "path": "cloth-config-15.0.140-neoforge.jar",
+            "url": "https://gitlab.com/ann332724/modpack-servidor/-/raw/main/mods/cloth-config-15.0.140-neoforge.jar"
+          }
+        },
+        {
+          "id": "local:craftingrecipeexporter-1.21.1-NeoForge-1.0.0:1",
+          "name": "craftingrecipeexporter-1.21.1-NeoForge-1.0.0",
+          "type": "NeoForgeMod",
+          "required": {
+            "value": true
+          },
+          "artifact": {
+            "size": 21420,
+            "MD5": "433bcb2e99917d0329cecedb0ace4c32",
+            "path": "craftingrecipeexporter-1.21.1-NeoForge-1.0.0.jar",
+            "url": "https://gitlab.com/ann332724/modpack-servidor/-/raw/main/mods/craftingrecipeexporter-1.21.1-NeoForge-1.0.0.jar"
+          }
+        },
+        {
+          "id": "local:create-1.21.1-6.0.10:1",
+          "name": "create-1.21.1-6.0.10",
+          "type": "NeoForgeMod",
+          "required": {
+            "value": true
+          },
+          "artifact": {
+            "size": 19123767,
+            "MD5": "179189c52b45a469e683570be4e77188",
+            "path": "create-1.21.1-6.0.10.jar",
+            "url": "https://gitlab.com/ann332724/modpack-servidor/-/raw/main/mods/create-1.21.1-6.0.10.jar"
+          }
+        },
+        {
+          "id": "local:createbetterfps-1.21.1-1.1.5:1",
+          "name": "createbetterfps-1.21.1-1.1.5",
+          "type": "NeoForgeMod",
+          "required": {
+            "value": true
+          },
+          "artifact": {
+            "size": 26542,
+            "MD5": "a5d06a3f86fb87ce6965abdd38837787",
+            "path": "createbetterfps-1.21.1-1.1.5.jar",
+            "url": "https://gitlab.com/ann332724/modpack-servidor/-/raw/main/mods/createbetterfps-1.21.1-1.1.5.jar"
+          }
+        },
+        {
+          "id": "local:curios-neoforge-9.5.1_1.21.1:1",
+          "name": "curios-neoforge-9.5.1+1.21.1",
+          "type": "NeoForgeMod",
+          "required": {
+            "value": true
+          },
+          "artifact": {
+            "size": 410690,
+            "MD5": "e8f0a3574264bb202c153b90293dc84c",
+            "path": "curios-neoforge-9.5.1+1.21.1.jar",
+            "url": "https://gitlab.com/ann332724/modpack-servidor/-/raw/main/mods/curios-neoforge-9.5.1%2B1.21.1.jar"
+          }
+        },
+        {
+          "id": "local:cyanide-neoforge-1.21.1-5.0.0:1",
+          "name": "cyanide-neoforge-1.21.1-5.0.0",
+          "type": "NeoForgeMod",
+          "required": {
+            "value": true
+          },
+          "artifact": {
+            "size": 49610,
+            "MD5": "0567a9bf294b922384148e9dc778de4f",
+            "path": "cyanide-neoforge-1.21.1-5.0.0.jar",
+            "url": "https://gitlab.com/ann332724/modpack-servidor/-/raw/main/mods/cyanide-neoforge-1.21.1-5.0.0.jar"
+          }
+        },
+        {
+          "id": "local:dynamic-fps-3.11.4_minecraft-1.21.0-neoforge:1",
+          "name": "dynamic-fps-3.11.4+minecraft-1.21.0-neoforge",
+          "type": "NeoForgeMod",
+          "required": {
+            "value": true
+          },
+          "artifact": {
+            "size": 220193,
+            "MD5": "e5ef3e5d37eedad79cf44897229fd8f2",
+            "path": "dynamic-fps-3.11.4+minecraft-1.21.0-neoforge.jar",
+            "url": "https://gitlab.com/ann332724/modpack-servidor/-/raw/main/mods/dynamic-fps-3.11.4%2Bminecraft-1.21.0-neoforge.jar"
+          }
+        },
+        {
+          "id": "local:eclipse_arcana-1.3.0:1",
+          "name": "eclipse_arcana-1.3.0",
+          "type": "NeoForgeMod",
+          "required": {
+            "value": true
+          },
+          "artifact": {
+            "size": 1069629,
+            "MD5": "ed6c83765846ea9b7d47068e60d0a459",
+            "path": "eclipse_arcana-1.3.0.jar",
+            "url": "https://gitlab.com/ann332724/modpack-servidor/-/raw/main/mods/eclipse_arcana-1.3.0.jar"
+          }
+        },
+        {
+          "id": "local:enhancedblockentities-0.13.3_1.21-neoforge:1",
+          "name": "enhancedblockentities-0.13.3+1.21-neoforge",
+          "type": "NeoForgeMod",
+          "required": {
+            "value": true
+          },
+          "artifact": {
+            "size": 260167,
+            "MD5": "de5c76e6c50e1374341913e4c8a1dd25",
+            "path": "enhancedblockentities-0.13.3+1.21-neoforge.jar",
+            "url": "https://gitlab.com/ann332724/modpack-servidor/-/raw/main/mods/enhancedblockentities-0.13.3%2B1.21-neoforge.jar"
+          }
+        },
+        {
+          "id": "local:entity_texture_features-7.2.6-1.21-neoforge:1",
+          "name": "entity_texture_features-7.2.6-1.21-neoforge",
+          "type": "NeoForgeMod",
+          "required": {
+            "value": true
+          },
+          "artifact": {
+            "size": 807089,
+            "MD5": "4a43e6788feaf7d76b22099fd1b144cf",
+            "path": "entity_texture_features-7.2.6-1.21-neoforge.jar",
+            "url": "https://gitlab.com/ann332724/modpack-servidor/-/raw/main/mods/entity_texture_features-7.2.6-1.21-neoforge.jar"
+          }
+        },
+        {
+          "id": "local:entityculling-neoforge-1.11.3-mc1.21.1:1",
+          "name": "entityculling-neoforge-1.11.3-mc1.21.1",
+          "type": "NeoForgeMod",
+          "required": {
+            "value": true
+          },
+          "artifact": {
+            "size": 1510075,
+            "MD5": "9958dc06f71e0e059c377bce5f369de6",
+            "path": "entityculling-neoforge-1.11.3-mc1.21.1.jar",
+            "url": "https://gitlab.com/ann332724/modpack-servidor/-/raw/main/mods/entityculling-neoforge-1.11.3-mc1.21.1.jar"
+          }
+        },
+        {
+          "id": "local:ferritecore-7.0.3-neoforge:1",
+          "name": "ferritecore-7.0.3-neoforge",
+          "type": "NeoForgeMod",
+          "required": {
+            "value": true
+          },
+          "artifact": {
+            "size": 121559,
+            "MD5": "e0374dac41d6c641903f9e241911e1d3",
+            "path": "ferritecore-7.0.3-neoforge.jar",
+            "url": "https://gitlab.com/ann332724/modpack-servidor/-/raw/main/mods/ferritecore-7.0.3-neoforge.jar"
+          }
+        },
+        {
+          "id": "local:flerovium-neoforge-1.21.1-1.2.0-all:1",
+          "name": "flerovium-neoforge-1.21.1-1.2.0-all",
+          "type": "NeoForgeMod",
+          "required": {
+            "value": true
+          },
+          "artifact": {
+            "size": 194016,
+            "MD5": "4eb644418af0a0e1ac2d23e5c3eb8908",
+            "path": "flerovium-neoforge-1.21.1-1.2.0-all.jar",
+            "url": "https://gitlab.com/ann332724/modpack-servidor/-/raw/main/mods/flerovium-neoforge-1.21.1-1.2.0-all.jar"
+          }
+        },
+        {
+          "id": "local:fzzy_config-0.7.7_fix1_1.21_neoforge:1",
+          "name": "fzzy_config-0.7.7+fix1+1.21+neoforge",
+          "type": "NeoForgeMod",
+          "required": {
+            "value": true
+          },
+          "artifact": {
+            "size": 2392720,
+            "MD5": "f453f946e3fbf1b46809141dba1aaeaf",
+            "path": "fzzy_config-0.7.7+fix1+1.21+neoforge.jar",
+            "url": "https://gitlab.com/ann332724/modpack-servidor/-/raw/main/mods/fzzy_config-0.7.7%2Bfix1%2B1.21%2Bneoforge.jar"
+          }
+        },
+        {
+          "id": "local:gametechbcs_spellbooks-3.0.0-1.21.1:1",
+          "name": "gametechbcs_spellbooks-3.0.0-1.21.1",
+          "type": "NeoForgeMod",
+          "required": {
+            "value": true
+          },
+          "artifact": {
+            "size": 1689146,
+            "MD5": "fd54dbb5bf050cfdb52d423b4c663a1a",
+            "path": "gametechbcs_spellbooks-3.0.0-1.21.1.jar",
+            "url": "https://gitlab.com/ann332724/modpack-servidor/-/raw/main/mods/gametechbcs_spellbooks-3.0.0-1.21.1.jar"
+          }
+        },
+        {
+          "id": "local:geckolib-neoforge-1.21.1-4.9.3:1",
+          "name": "geckolib-neoforge-1.21.1-4.9.3",
+          "type": "NeoForgeMod",
+          "required": {
+            "value": true
+          },
+          "artifact": {
+            "size": 634531,
+            "MD5": "ddb8a5ef680c3a1df09ef98dc8b7c116",
+            "path": "geckolib-neoforge-1.21.1-4.9.3.jar",
+            "url": "https://gitlab.com/ann332724/modpack-servidor/-/raw/main/mods/geckolib-neoforge-1.21.1-4.9.3.jar"
+          }
+        },
+        {
+          "id": "local:gtbcs_spell_lib-2.2.0-1.21.1:1",
+          "name": "gtbcs_spell_lib-2.2.0-1.21.1",
+          "type": "NeoForgeMod",
+          "required": {
+            "value": true
+          },
+          "artifact": {
+            "size": 308353,
+            "MD5": "033ae0e04ffa6cd419ddb068d9f9c9fc",
+            "path": "gtbcs_spell_lib-2.2.0-1.21.1.jar",
+            "url": "https://gitlab.com/ann332724/modpack-servidor/-/raw/main/mods/gtbcs_spell_lib-2.2.0-1.21.1.jar"
+          }
+        },
+        {
+          "id": "local:handcrafted-neoforge-1.21.1-4.0.3:1",
+          "name": "handcrafted-neoforge-1.21.1-4.0.3",
+          "type": "NeoForgeMod",
+          "required": {
+            "value": true
+          },
+          "artifact": {
+            "size": 7132842,
+            "MD5": "0f875f5741a6fad6f1c4f6fdbe5f538b",
+            "path": "handcrafted-neoforge-1.21.1-4.0.3.jar",
+            "url": "https://gitlab.com/ann332724/modpack-servidor/-/raw/main/mods/handcrafted-neoforge-1.21.1-4.0.3.jar"
+          }
+        },
+        {
+          "id": "local:immersive_optimization-neoforge-1.21.1-0.2.0:1",
+          "name": "immersive_optimization-neoforge-1.21.1-0.2.0",
+          "type": "NeoForgeMod",
+          "required": {
+            "value": true
+          },
+          "artifact": {
+            "size": 56122,
+            "MD5": "088a60b11a06d25e4b60bc08e1c1afb0",
+            "path": "immersive_optimization-neoforge-1.21.1-0.2.0.jar",
+            "url": "https://gitlab.com/ann332724/modpack-servidor/-/raw/main/mods/immersive_optimization-neoforge-1.21.1-0.2.0.jar"
+          }
+        },
+        {
+          "id": "local:iris-neoforge-1.8.14-beta.1_mc1.21.1:1",
+          "name": "iris-neoforge-1.8.14-beta.1+mc1.21.1",
+          "type": "NeoForgeMod",
+          "required": {
+            "value": true
+          },
+          "artifact": {
+            "size": 2540723,
+            "MD5": "6b68276a6718656ec476cfac69dfe013",
+            "path": "iris-neoforge-1.8.14-beta.1+mc1.21.1.jar",
+            "url": "https://gitlab.com/ann332724/modpack-servidor/-/raw/main/mods/iris-neoforge-1.8.14-beta.1%2Bmc1.21.1.jar"
+          }
+        },
+        {
+          "id": "local:irons_artifice-1.21.1-1.1.1:1",
+          "name": "irons_artifice-1.21.1-1.1.1",
+          "type": "NeoForgeMod",
+          "required": {
+            "value": true
+          },
+          "artifact": {
+            "size": 1570683,
+            "MD5": "6fb8cc996edbcee29cf785d04d572013",
+            "path": "irons_artifice-1.21.1-1.1.1.jar",
+            "url": "https://gitlab.com/ann332724/modpack-servidor/-/raw/main/mods/irons_artifice-1.21.1-1.1.1.jar"
+          }
+        },
+        {
+          "id": "local:irons_lib-1.21.1-2.3.0:1",
+          "name": "irons_lib-1.21.1-2.3.0",
+          "type": "NeoForgeMod",
+          "required": {
+            "value": true
+          },
+          "artifact": {
+            "size": 481888,
+            "MD5": "b44cdeb12dd707a75a5c3092ab0659fb",
+            "path": "irons_lib-1.21.1-2.3.0.jar",
+            "url": "https://gitlab.com/ann332724/modpack-servidor/-/raw/main/mods/irons_lib-1.21.1-2.3.0.jar"
+          }
+        },
+        {
+          "id": "local:irons_spellbooks-1.21.1-3.16.3:1",
+          "name": "irons_spellbooks-1.21.1-3.16.3",
+          "type": "NeoForgeMod",
+          "required": {
+            "value": true
+          },
+          "artifact": {
+            "size": 13890045,
+            "MD5": "7f1f4f079484df172f3a47db94682462",
+            "path": "irons_spellbooks-1.21.1-3.16.3.jar",
+            "url": "https://gitlab.com/ann332724/modpack-servidor/-/raw/main/mods/irons_spellbooks-1.21.1-3.16.3.jar"
+          }
+        },
+        {
+          "id": "local:jei-1.21.1-neoforge-19.70.0.460:1",
+          "name": "jei-1.21.1-neoforge-19.70.0.460",
+          "type": "NeoForgeMod",
+          "required": {
+            "value": true
+          },
+          "artifact": {
+            "size": 4735620,
+            "MD5": "1975bcc674497387f8c205a522b2974a",
+            "path": "jei-1.21.1-neoforge-19.70.0.460.jar",
+            "url": "https://gitlab.com/ann332724/modpack-servidor/-/raw/main/mods/jei-1.21.1-neoforge-19.70.0.460.jar"
+          }
+        },
+        {
+          "id": "local:keybindsearch-1.0.0:1",
+          "name": "keybindsearch-1.0.0",
+          "type": "NeoForgeMod",
+          "required": {
+            "value": true
+          },
+          "artifact": {
+            "size": 18383,
+            "MD5": "2c62c803645786b1349dc0141d6214bf",
+            "path": "keybindsearch-1.0.0.jar",
+            "url": "https://gitlab.com/ann332724/modpack-servidor/-/raw/main/mods/keybindsearch-1.0.0.jar"
+          }
+        },
+        {
+          "id": "local:kotlinforforge-5.12.0-all:1",
+          "name": "kotlinforforge-5.12.0-all",
+          "type": "NeoForgeMod",
+          "required": {
+            "value": true
+          },
+          "artifact": {
+            "size": 7279264,
+            "MD5": "93ec434c7112952f0501211a992538b9",
+            "path": "kotlinforforge-5.12.0-all.jar",
+            "url": "https://gitlab.com/ann332724/modpack-servidor/-/raw/main/mods/kotlinforforge-5.12.0-all.jar"
+          }
+        },
+        {
+          "id": "local:kubejs-neoforge-2101.7.2-build.377:1",
+          "name": "kubejs-neoforge-2101.7.2-build.377",
+          "type": "NeoForgeMod",
+          "required": {
+            "value": true
+          },
+          "artifact": {
+            "size": 2294111,
+            "MD5": "ee9340e5d7b6d7a3e7ef81c22252fe5b",
+            "path": "kubejs-neoforge-2101.7.2-build.377.jar",
+            "url": "https://gitlab.com/ann332724/modpack-servidor/-/raw/main/mods/kubejs-neoforge-2101.7.2-build.377.jar"
+          }
+        },
+        {
+          "id": "local:lithium-neoforge-0.15.4_mc1.21.1:1",
+          "name": "lithium-neoforge-0.15.4+mc1.21.1",
+          "type": "NeoForgeMod",
+          "required": {
+            "value": true
+          },
+          "artifact": {
+            "size": 774220,
+            "MD5": "969860e6a6ebe4dc2e2154b56f05483e",
+            "path": "lithium-neoforge-0.15.4+mc1.21.1.jar",
+            "url": "https://gitlab.com/ann332724/modpack-servidor/-/raw/main/mods/lithium-neoforge-0.15.4%2Bmc1.21.1.jar"
+          }
+        },
+        {
+          "id": "local:matlib-1.0.0_1.21-neoforge:1",
+          "name": "matlib-1.0.0+1.21-neoforge",
+          "type": "NeoForgeMod",
+          "required": {
+            "value": true
+          },
+          "artifact": {
+            "size": 669331,
+            "MD5": "52cdc73c0fc1aec396d071f1b3d53615",
+            "path": "matlib-1.0.0+1.21-neoforge.jar",
+            "url": "https://gitlab.com/ann332724/modpack-servidor/-/raw/main/mods/matlib-1.0.0%2B1.21-neoforge.jar"
+          }
+        },
+        {
+          "id": "local:mezz_config-1.21.1-neoforge-0.6.9-standalone:1",
+          "name": "mezz_config-1.21.1-neoforge-0.6.9-standalone",
+          "type": "NeoForgeMod",
+          "required": {
+            "value": true
+          },
+          "artifact": {
+            "size": 345479,
+            "MD5": "020e860f337e10b98ad215f15889a876",
+            "path": "mezz_config-1.21.1-neoforge-0.6.9-standalone.jar",
+            "url": "https://gitlab.com/ann332724/modpack-servidor/-/raw/main/mods/mezz_config-1.21.1-neoforge-0.6.9-standalone.jar"
+          }
+        },
+        {
+          "id": "local:modernfix-neoforge-5.27.27_mc1.21.1:1",
+          "name": "modernfix-neoforge-5.27.27+mc1.21.1",
+          "type": "NeoForgeMod",
+          "required": {
+            "value": true
+          },
+          "artifact": {
+            "size": 614138,
+            "MD5": "cab1e1285f6766edbbd8c8724c320249",
+            "path": "modernfix-neoforge-5.27.27+mc1.21.1.jar",
+            "url": "https://gitlab.com/ann332724/modpack-servidor/-/raw/main/mods/modernfix-neoforge-5.27.27%2Bmc1.21.1.jar"
+          }
+        },
+        {
+          "id": "local:moonlight-1.21.1-3.7.2-neoforge:1",
+          "name": "moonlight-1.21.1-3.7.2-neoforge",
+          "type": "NeoForgeMod",
+          "required": {
+            "value": true
+          },
+          "artifact": {
+            "size": 2299162,
+            "MD5": "949d8d0a250830c5da1470892953618d",
+            "path": "moonlight-1.21.1-3.7.2-neoforge.jar",
+            "url": "https://gitlab.com/ann332724/modpack-servidor/-/raw/main/mods/moonlight-1.21.1-3.7.2-neoforge.jar"
+          }
+        },
+        {
+          "id": "local:moreculling-neoforge-1.21.1-1.0.10:1",
+          "name": "moreculling-neoforge-1.21.1-1.0.10",
+          "type": "NeoForgeMod",
+          "required": {
+            "value": true
+          },
+          "artifact": {
+            "size": 335699,
+            "MD5": "72baa3f87a5395a58441491ead5aaac9",
+            "path": "moreculling-neoforge-1.21.1-1.0.10.jar",
+            "url": "https://gitlab.com/ann332724/modpack-servidor/-/raw/main/mods/moreculling-neoforge-1.21.1-1.0.10.jar"
+          }
+        },
+        {
+          "id": "local:packetfixer-3.3.1-1.20.5-1.21.X-merged:1",
+          "name": "packetfixer-3.3.1-1.20.5-1.21.X-merged",
+          "type": "NeoForgeMod",
+          "required": {
+            "value": true
+          },
+          "artifact": {
+            "size": 46623,
+            "MD5": "8f22fb065079340a72ae5ce0da12efcb",
+            "path": "packetfixer-3.3.1-1.20.5-1.21.X-merged.jar",
+            "url": "https://gitlab.com/ann332724/modpack-servidor/-/raw/main/mods/packetfixer-3.3.1-1.20.5-1.21.X-merged.jar"
+          }
+        },
+        {
+          "id": "local:particle_core-0.3.3_1.21_neoforge:1",
+          "name": "particle_core-0.3.3+1.21+neoforge",
+          "type": "NeoForgeMod",
+          "required": {
+            "value": true
+          },
+          "artifact": {
+            "size": 138375,
+            "MD5": "50d18b159cdda24351ed935aa60bd6ae",
+            "path": "particle_core-0.3.3+1.21+neoforge.jar",
+            "url": "https://gitlab.com/ann332724/modpack-servidor/-/raw/main/mods/particle_core-0.3.3%2B1.21%2Bneoforge.jar"
+          }
+        },
+        {
+          "id": "local:player-animation-lib-forge-2.0.4_1.21.1:1",
+          "name": "player-animation-lib-forge-2.0.4+1.21.1",
+          "type": "NeoForgeMod",
+          "required": {
+            "value": true
+          },
+          "artifact": {
+            "size": 203149,
+            "MD5": "ecb81c9479605db12a77bea774b88406",
+            "path": "player-animation-lib-forge-2.0.4+1.21.1.jar",
+            "url": "https://gitlab.com/ann332724/modpack-servidor/-/raw/main/mods/player-animation-lib-forge-2.0.4%2B1.21.1.jar"
+          }
+        },
+        {
+          "id": "local:railways-0.2.1_neoforge-mc1.21.1:1",
+          "name": "railways-0.2.1+neoforge-mc1.21.1",
+          "type": "NeoForgeMod",
+          "required": {
+            "value": true
+          },
+          "artifact": {
+            "size": 12118736,
+            "MD5": "a1e93677459b11e2b4edbe01998ffdbd",
+            "path": "railways-0.2.1+neoforge-mc1.21.1.jar",
+            "url": "https://gitlab.com/ann332724/modpack-servidor/-/raw/main/mods/railways-0.2.1%2Bneoforge-mc1.21.1.jar"
+          }
+        },
+        {
+          "id": "local:reeses-sodium-options-neoforge-2.2.4_mc1.21.1:1",
+          "name": "reeses-sodium-options-neoforge-2.2.4+mc1.21.1",
+          "type": "NeoForgeMod",
+          "required": {
+            "value": true
+          },
+          "artifact": {
+            "size": 258894,
+            "MD5": "577e9ff1c3a0b480f29aec457d87fdc4",
+            "path": "reeses-sodium-options-neoforge-2.2.4+mc1.21.1.jar",
+            "url": "https://gitlab.com/ann332724/modpack-servidor/-/raw/main/mods/reeses-sodium-options-neoforge-2.2.4%2Bmc1.21.1.jar"
+          }
+        },
+        {
+          "id": "local:relics-1.21.1-0.12.11:1",
+          "name": "relics-1.21.1-0.12.11",
+          "type": "NeoForgeMod",
+          "required": {
+            "value": true
+          },
+          "artifact": {
+            "size": 5096604,
+            "MD5": "7c08529a0cbaf4980dc84a1d495d5e33",
+            "path": "relics-1.21.1-0.12.11.jar",
+            "url": "https://gitlab.com/ann332724/modpack-servidor/-/raw/main/mods/relics-1.21.1-0.12.11.jar"
+          }
+        },
+        {
+          "id": "local:resourcefullib-neoforge-1.21-3.0.12:1",
+          "name": "resourcefullib-neoforge-1.21-3.0.12",
+          "type": "NeoForgeMod",
+          "required": {
+            "value": true
+          },
+          "artifact": {
+            "size": 484332,
+            "MD5": "32da88903167d24bb20febeeb2c79225",
+            "path": "resourcefullib-neoforge-1.21-3.0.12.jar",
+            "url": "https://gitlab.com/ann332724/modpack-servidor/-/raw/main/mods/resourcefullib-neoforge-1.21-3.0.12.jar"
+          }
+        },
+        {
+          "id": "local:rhino-2101.2.8-build.91:1",
+          "name": "rhino-2101.2.8-build.91",
+          "type": "NeoForgeMod",
+          "required": {
+            "value": true
+          },
+          "artifact": {
+            "size": 980936,
+            "MD5": "c8227681747c8fad25d1fc4e06542717",
+            "path": "rhino-2101.2.8-build.91.jar",
+            "url": "https://gitlab.com/ann332724/modpack-servidor/-/raw/main/mods/rhino-2101.2.8-build.91.jar"
+          }
+        },
+        {
+          "id": "local:sodium-extra-neoforge-0.9.5_mc1.21.1:1",
+          "name": "sodium-extra-neoforge-0.9.5+mc1.21.1",
+          "type": "NeoForgeMod",
+          "required": {
+            "value": true
+          },
+          "artifact": {
+            "size": 483373,
+            "MD5": "234f34e7c863e4e95ef802910ae0d055",
+            "path": "sodium-extra-neoforge-0.9.5+mc1.21.1.jar",
+            "url": "https://gitlab.com/ann332724/modpack-servidor/-/raw/main/mods/sodium-extra-neoforge-0.9.5%2Bmc1.21.1.jar"
+          }
+        },
+        {
+          "id": "local:sodium-neoforge-0.8.13_mc1.21.1:1",
+          "name": "sodium-neoforge-0.8.13+mc1.21.1",
+          "type": "NeoForgeMod",
+          "required": {
+            "value": true
+          },
+          "artifact": {
+            "size": 1292934,
+            "MD5": "c2bc7287841c29e25ce553baae1700a0",
+            "path": "sodium-neoforge-0.8.13+mc1.21.1.jar",
+            "url": "https://gitlab.com/ann332724/modpack-servidor/-/raw/main/mods/sodium-neoforge-0.8.13%2Bmc1.21.1.jar"
+          }
+        },
+        {
+          "id": "local:sophisticatedbackpacks-1.21.1-3.26.17.2232:1",
+          "name": "sophisticatedbackpacks-1.21.1-3.26.17.2232",
+          "type": "NeoForgeMod",
+          "required": {
+            "value": true
+          },
+          "artifact": {
+            "size": 1256228,
+            "MD5": "f539bdb5cdc8928b8e44596c67816b56",
+            "path": "sophisticatedbackpacks-1.21.1-3.26.17.2232.jar",
+            "url": "https://gitlab.com/ann332724/modpack-servidor/-/raw/main/mods/sophisticatedbackpacks-1.21.1-3.26.17.2232.jar"
+          }
+        },
+        {
+          "id": "local:sophisticatedcore-1.21.1-1.5.19.2434:1",
+          "name": "sophisticatedcore-1.21.1-1.5.19.2434",
+          "type": "NeoForgeMod",
+          "required": {
+            "value": true
+          },
+          "artifact": {
+            "size": 1820184,
+            "MD5": "1e67eea92214ced889bacd513375b0cd",
+            "path": "sophisticatedcore-1.21.1-1.5.19.2434.jar",
+            "url": "https://gitlab.com/ann332724/modpack-servidor/-/raw/main/mods/sophisticatedcore-1.21.1-1.5.19.2434.jar"
+          }
+        },
+        {
+          "id": "local:spark-1.10.124-neoforge:1",
+          "name": "spark-1.10.124-neoforge",
+          "type": "NeoForgeMod",
+          "required": {
+            "value": true
+          },
+          "artifact": {
+            "size": 3642581,
+            "MD5": "a61dd250e618f8fd62fc6b0943831c50",
+            "path": "spark-1.10.124-neoforge.jar",
+            "url": "https://gitlab.com/ann332724/modpack-servidor/-/raw/main/mods/spark-1.10.124-neoforge.jar"
+          }
+        },
+        {
+          "id": "local:supplementaries-1.21.1-4.0.2-neoforge:1",
+          "name": "supplementaries-1.21.1-4.0.2-neoforge",
+          "type": "NeoForgeMod",
+          "required": {
+            "value": true
+          },
+          "artifact": {
+            "size": 13840377,
+            "MD5": "a9edfe4a198afa322f7a0741e25a1a38",
+            "path": "supplementaries-1.21.1-4.0.2-neoforge.jar",
+            "url": "https://gitlab.com/ann332724/modpack-servidor/-/raw/main/mods/supplementaries-1.21.1-4.0.2-neoforge.jar"
+          }
+        },
+        {
+          "id": "local:toms_storage-1.21-2.4.2:1",
+          "name": "toms_storage-1.21-2.4.2",
+          "type": "NeoForgeMod",
+          "required": {
+            "value": true
+          },
+          "artifact": {
+            "size": 856803,
+            "MD5": "60be115121d183a559ecdee2b35dae3b",
+            "path": "toms_storage-1.21-2.4.2.jar",
+            "url": "https://gitlab.com/ann332724/modpack-servidor/-/raw/main/mods/toms_storage-1.21-2.4.2.jar"
+          }
+        },
+        {
+          "id": "local:vampire_spells_addon-neoforge-1.21.1-0.0.10:1",
+          "name": "vampire_spells_addon-neoforge-1.21.1-0.0.10",
+          "type": "NeoForgeMod",
+          "required": {
+            "value": true
+          },
+          "artifact": {
+            "size": 101106,
+            "MD5": "4aae564847b82f3e1dc2e9972bcddd90",
+            "path": "vampire_spells_addon-neoforge-1.21.1-0.0.10.jar",
+            "url": "https://gitlab.com/ann332724/modpack-servidor/-/raw/main/mods/vampire_spells_addon-neoforge-1.21.1-0.0.10.jar"
+          }
+        },
+        {
+          "id": "local:vampirism_integrations-1.21.1-1.10.2:1",
+          "name": "vampirism_integrations-1.21.1-1.10.2",
+          "type": "NeoForgeMod",
+          "required": {
+            "value": true
+          },
+          "artifact": {
+            "size": 305825,
+            "MD5": "09c9aa3a7c671595a98812c25bb947e5",
+            "path": "vampirism_integrations-1.21.1-1.10.2.jar",
+            "url": "https://gitlab.com/ann332724/modpack-servidor/-/raw/main/mods/vampirism_integrations-1.21.1-1.10.2.jar"
+          }
+        }
+      ]
+    }
+  ]
+}

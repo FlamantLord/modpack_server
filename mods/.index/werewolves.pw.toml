@@ -1,0 +1,29 @@
+filename = 'Werewolves-1.21-2.0.3.3.jar'
+name = 'Werewolves'
+side = 'both'
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21', '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = '1.21-2.0.3.3'
+
+[download]
+hash = 'cdc0d8e9c4d8b961df63998f3200645960cc28f1e795e69f1801431bfca0c5ea89fa8e70fcca1ad10cbb37cdc5f15382d87c2a9403d6fa6a67eaabe69604b67d'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/3ElBohKg/versions/zkd687ts/Werewolves-1.21-2.0.3.3.jar'
+
+[update.modrinth]
+mod-id = '3ElBohKg'
+version = 'zkd687ts'
+
+[[x-prismlauncher-dependencies]]
+addonId = 'u6dRKJwZ'
+type = 'OPTIONAL'
+
+[[x-prismlauncher-dependencies]]
+addonId = 'jVZ0F1wn'
+type = 'REQUIRED'
+
+[[x-prismlauncher-dependencies]]
+addonId = 'w5L2PHJU'
+type = 'OPTIONAL'
